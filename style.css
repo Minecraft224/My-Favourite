@@ -96,3 +96,9 @@ p {
 .links:hover {
     background-color: yellow;
 }
+.article:hover {
+    color: chocolate;
+}
+a {
+    text-decoration: none;
+}
