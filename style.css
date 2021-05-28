@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding-top: 800px;
+    text-align: center;
 }
 
 .profile {
@@ -101,4 +102,11 @@ p {
 }
 a {
     text-decoration: none;
+}
+img {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA    
+}
+img:hover {
+    transform: scale(0.9);
 }
